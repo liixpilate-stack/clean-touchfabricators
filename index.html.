@@ -18,44 +18,36 @@
   </style>
 </head>
 <body>
-
 <header>
   <h1>Clean Touch Fabricators</h1>
-  <p><strong>Precision Metal. Built to Last.</strong></p>
+  <p>Professional welding & metal fabrication</p>
 </header>
 
 <section>
   <h2>About Us</h2>
   <p>
-    We specialize in high-quality welding and metal fabrication for gates, doors,
-    windows, grills, and custom steel works. Built with strength, finished with precision.
+    Clean Touch Fabricators is a professional welding and metal fabrication
+    business offering high-quality steel solutions built to last.
   </p>
 </section>
 
 <section>
-  <h2>Our Services</h2>
+  <h2>Services</h2>
   <ul class="services">
-    <li>Welding of Gates, Doors & Windows</li>
-    <li>Window & Door Grills</li>
-    <li>Metal Fabrication & Custom Steel Works</li>
-    <li>Business Card Design & Printing</li>
+    <li>Welding of gates, doors, and windows</li>
+    <li>Window and door grills</li>
+    <li>Metal fabrication and custom steel works</li>
+    <li>Business card design and printing</li>
   </ul>
 </section>
 
-<section>
-  <h2>Our Work</h2>
-  <p>Project photos coming here.</p>
-</section>
-
 <section class="contact">
-  <h2>Contact Us</h2>
-  <a href="tel:0717217395">Call Us</a>
-  <a href="https://wa.me/254717217395" target="_blank">WhatsApp Us</a>
+  <h2>Contact</h2>
+  <p>Phone / WhatsApp: <a href="tel:+254717217395">+254737103637</a></p>
 </section>
 
 <footer>
-  <p>© Clean Touch Fabricators</p>
+  <p>© 2026 Clean Touch Fabricators</p>
 </footer>
 
 </body>
-  </html>
